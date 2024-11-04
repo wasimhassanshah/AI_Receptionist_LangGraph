@@ -1,0 +1,14 @@
+langgraph 
+langchain_community 
+langchain_openai
+langchain_core
+langchain-groq
+python-dotenv
+streamlit
+ipykernel
+
+
+
+ 
+
+
